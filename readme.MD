@@ -79,7 +79,7 @@ Para que o bot funcione corretamente, você precisa configurá-lo no portal de d
 1. Clone ou baixe este repositório.
 2. Abra o terminal na pasta do projeto (`bot-black`) e instale as dependências:
    ```bash
-   npm install
+   npm install discord.js express cors dotenv
    ```
 3. Crie um arquivo chamado `.env` na raiz do projeto e insira o seu token do Discord:
    ```env
